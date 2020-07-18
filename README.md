@@ -7,6 +7,14 @@ Specific room cleaning with input_booleans.
 2. Retrieving room numbers ([doc](https://www.home-assistant.io/integrations/vacuum.xiaomi_miio/#example-on-how-to-clean-a-specific-room)).
 3. Add input\_boolean per room. Make sure the name of input\_boolean is `input_boolean.<room_name>_<room_number>`.
 
+## Installation
+
+1. Add `python_script:` in your configuration.yaml.
+2. Make `python_scripts` directory in your /config directory, if not exist.
+3. Restart HA.
+4. Add HACS Custom Repository `https://github.com/n-andflash/xiaomi_vacuum_rooms`, category: `Python Script`.
+5. Install "Xiaomi Vacuum Room Cleaning" at HACS Automation page.
+
 ## Example
 
 * configuration.yaml
