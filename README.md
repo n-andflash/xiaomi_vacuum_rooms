@@ -14,6 +14,7 @@ Multiple room cleaning with input_booleans.
 3. Restart HA.
 4. Add HACS Custom Repository `https://github.com/n-andflash/xiaomi_vacuum_rooms`, category: `Python Script`.
 5. Install "Xiaomi Vacuum Room Cleaning" at HACS Automation page.
+6. run `python_script.reload` service at Developer Tools page.
 
 ## Example
 
