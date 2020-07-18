@@ -1,5 +1,5 @@
 # xiaomi\_vacuum\_rooms
-Specific room cleaning with input_booleans.
+Multiple room cleaning with input_booleans.
 
 ## Prerequisite
 
