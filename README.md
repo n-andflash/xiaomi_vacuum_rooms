@@ -20,6 +20,8 @@ Specific room cleaning with input_booleans.
 * configuration.yaml
 
 ```yaml
+python_script:
+
 input_boolean:
   vacuum_hallway_19:
   vacuum_living_room_20:
