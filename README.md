@@ -5,7 +5,7 @@ Multiple room cleaning with input_booleans.
 
 1. Add your vacuum to HA ([doc](https://www.home-assistant.io/integrations/vacuum.xiaomi_miio/)).
 2. Retrieving room numbers ([doc](https://www.home-assistant.io/integrations/vacuum.xiaomi_miio/#example-on-how-to-clean-a-specific-room)).
-3. Add input\_boolean per room. Make sure the name of input\_boolean is `input_boolean.<room_name>_<room_number>`.
+3. Add input\_boolean per room. Make sure the name of input\_boolean is <br /> `input_boolean.<room_name>_<room_number>`.
 
 ## Installation
 
