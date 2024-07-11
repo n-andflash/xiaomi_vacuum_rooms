@@ -1,6 +1,10 @@
 # xiaomi\_vacuum\_rooms
 Multiple room cleaning with input_booleans.
 
+# No longer maintained.
+Suggested alternatives: https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card
+#
+
 ## Prerequisite
 
 1. Add your vacuum to HA ([doc](https://www.home-assistant.io/integrations/vacuum.xiaomi_miio/)).
